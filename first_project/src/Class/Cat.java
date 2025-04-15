@@ -8,7 +8,7 @@ public class Cat {
         System.out.println("Cat() 생성자 호출합니다.");
     }
     Cat(String pBreed){
-        System.out.println("Cat(...) 생선자 호출합니다.");
+        System.out.println("Cat(...) 생성자 호출합니다.");
         this.breed = pBreed;
     }
 
