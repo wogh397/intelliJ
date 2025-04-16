@@ -1,4 +1,4 @@
-package Class;
+package Dog;
 
 public class Dog {
     String name; // 강아지 이름

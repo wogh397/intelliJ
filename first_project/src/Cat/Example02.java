@@ -1,4 +1,4 @@
-package Class;
+package Cat;
 
 public class Example02 {
     public static void myMethod1(){

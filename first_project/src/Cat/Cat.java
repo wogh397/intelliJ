@@ -1,4 +1,4 @@
-package Class;
+package Cat;
 
 public class Cat {
     String breed;
