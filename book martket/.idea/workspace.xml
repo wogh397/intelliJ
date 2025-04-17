@@ -5,25 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b38d84db-6e8c-4b75-a6a3-76df37bffb79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../first_project/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../first_project/src/Book_Market/Parson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../first_project/src/Book_Market/book_market.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../first_project/src/Constructor04/Constructor04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../first_project/src/Constructor04/MemberChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../first_project/src/Dog_Ex/DogList_Ex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../first_project/src/Dog_Ex/Dog_Ex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/book martket.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first_project/src/Class/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../first_project/src/Cat/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first_project/src/Class/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../first_project/src/Dog/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first_project/src/Class/Example01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../first_project/src/Cat/Example01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first_project/src/Class/Example02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../first_project/src/Cat/Example02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first_project/src/Class/Example04.java" beforeDir="false" afterPath="$PROJECT_DIR$/../first_project/src/Cat/Example04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../first_project/src/Class/Example05.java" beforeDir="false" afterPath="$PROJECT_DIR$/../first_project/src/Cat/Example05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/BookMarket/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/BookMarket/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/BookMarket/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/BookMarket/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/BookMarket/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/BookMarket/BookMarket.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/BookMarket/src/CartItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/BookMarket/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/BookMarket/src/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Book_Market/Parson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Book_Market/book_market.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Cat/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Cat/Example01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Cat/Example02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Cat/Example04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Cat/Example05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Class/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Class/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Class/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Class/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Class/Class.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Class/Constructor01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Class/Constructor02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Class/Object01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Class/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Constructor04/Constructor04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Constructor04/MemberChain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Dog/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Dog_Ex/DogList_Ex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/Dog_Ex/Dog_Ex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first_project/src/address_book/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +69,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Repository/intelliJ/Array"
+    "last_opened_file_path": "C:/JavaStudy/Java_study/AddressProject"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

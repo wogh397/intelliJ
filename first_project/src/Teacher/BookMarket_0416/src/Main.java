@@ -1,24 +1,11 @@
 import java.util.Scanner;
 
-public class Main { // Main이라는 큰틀?
-
-    // Static 이란 ? 공통으로 공유
-    // static 변수
-    // static 메서드 -> 객체 안만들어도 클래스명.이름으로 바로 사용가능
-
-    // mBook은 3개가 있고, 책정보는 7개 이다
-    // 3권의 책[i]랑 책정보[j]를 -> String[][] mBook빈배열 에 넣는다
+public class Main {
     static String[][] mBook = new String[3][7];
-
-    // 새로 만든 장바구니 3개 까지만 담을수있다.
-    //장바구니 빈배열에 CartItem[] mCart 안에 넣는다.
     static CartItem[] mCart = new CartItem[3];
-
-    // 카트안에 갯수(int) 조절 0으로 초기화
     static int mCartItemCount = 0;
 
-    public static void main(String[] args) { // Java 프로그램 첫 시작부분
-
+    public static void main(String[] args) {
         mBook[0][0] = "ISBN1234";
         mBook[0][1] = "쉽게 배우는 JSP 웹프로그래밍";
         mBook[0][2] = "27000";
@@ -43,36 +30,19 @@ public class Main { // Main이라는 큰틀?
         mBook[2][5] = "컴퓨터 입문";
         mBook[2][6] = "2019/06/10";
 
-        // 받은 입력값을 input에 넣는다.
         Scanner input = new Scanner(System.in);
-
-        // " " 안에 문자열출력
         System.out.print("당신의 이름을 입력하세요 : ");
-
-        // 입력된 문자를 name에 넣는다
-        // 문자 String 사용
         String name = input.nextLine();
-
         System.out.print("연락처를 입력하세요 : ");
-
         String phone = input.nextLine();
 
-        // 이름,전화번호 정보를 user라고 만듬
         Person user = new Person(name, phone);
 
-        // true일 경우 종료 아닐경우 반복
         while(true){
-
-            // boolean 서로 비교하여 같다면 true 다르면 false
             boolean endflag=false;
-
             menuIntroduction();
-
             System.out.print("메뉴 번호를 선택하세요: ");
-
-            // int(숫자) select 에 사용자가 입력한 값 삽입
             int select = input.nextInt();
-
             switch (select) {
                 case 1:
                     menuGuestInfo(user);
@@ -143,23 +113,17 @@ public class Main { // Main이라는 큰틀?
         System.out.println("장바구니 항목 추가하기 ");
 
         for (int i = 0; i < mBook.length; i++) {
-
             for (int j = 0; j < mBook[i].length; j++) {
-
                 System.out.print(mBook[i][j] + " | ");
             }
-
             System.out.println();
         }
 
         while (true) {
-
             boolean exit = false;
-
             System.out.print("장바구니에 추가할 도서의 ID를 입력하세요 : ");
 
             Scanner input = new Scanner(System.in);
-
             String bookid = input.nextLine();
 
            int index = -1;
