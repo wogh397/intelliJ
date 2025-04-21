@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3cc32ab4-bcb9-4bae-955a-85a06fb58f34" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Animal_Sound/Animal_Sound.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Animal_Sound/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Animal_Sound/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Animal_Sound/src/Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Animal_Sound/src/Polymorphism02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Computer/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Computer/src/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Computer/src/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Computer/src/SmartDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Computer/src/SmartPhoneImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Computer/src/SmartPhoneImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Computer/src/SmartPhoneMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Computer/src/SmartPhoneMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Interface02/src/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Interface02/src/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Interface02/src/Fly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Interface02/src/Interfece02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Interface02/src/Walk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Monopoly/BluMarble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Monopoly/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Monopoly/GamePan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Monopoly/Player_Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Monopoly/player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shape/src/AbstractClass01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shape/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shape/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shape/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vehicle/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vehicle/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vehicle/Example03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vehicle/FourWheeler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vehicle/TwoWheeler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vehicle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Teacher/BookMarket_0418/BookMarket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Teacher/BookMarket_0418/src/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Teacher/BookMarket_0418/src/CartInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Teacher/BookMarket_0418/src/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Teacher/BookMarket_0418/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BookMarket/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BookMarket/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BookMarket/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BookMarket/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BookMarket/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BookMarket/BookMarket.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BookMarket/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BookMarket/src/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BookMarket/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BookMarket/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BookMarket/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BookMarket/src/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BookMarket/src/BookInfoManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BookMarket/src/BookMarket.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BookMarket/src/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BookMarket/src/CartItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BookMarket/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Book_Market/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Book_Market/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Book_Market/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Book_Market/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Book_Market/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Book_Market/Book_Market.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Book_Market/Parson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Book_Market/book_market.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2w1tDZ8Tm2QzstSibl6Z0zVkE2O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Repository/intelliJ/first_project/src/Teacher/BookMarket_0418"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cc32ab4-bcb9-4bae-955a-85a06fb58f34" name="Changes" comment="" />
+      <created>1745220788149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745220788149</updated>
+    </task>
+    <servers />
+  </component>
+</project>
